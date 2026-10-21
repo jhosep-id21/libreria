@@ -1,6 +1,3 @@
-Hola broerrrr
-
-Real Madrid eterno hijo del Barca
-
+En este proyecto se presenta una libreria con funciones básicas
 
 
